@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg">
-  <img alt="Antonio Puceski — Software Engineer. From the data layer to the details people use. Full-stack development and applied AI." src="./assets/profile-banner.svg" width="100%">
+  <img alt="Antonio Puceski — Software Engineer. Building thoughtful software. Putting AI to work. Software Engineering and Applied AI." src="./assets/profile-banner.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ## Hi, I'm Antonio.
 
-I'm a software engineering graduate based in **Skopje, North Macedonia**, with professional experience in full-stack development, software integrations, and quality assurance.
+I'm a software engineering graduate based in **Skopje, North Macedonia**, with professional experience in software development, integrations, and quality assurance.
 
-I build applications across the stack: **APIs and relational databases, web and mobile interfaces, and applied machine learning.** I enjoy connecting those pieces into something useful—and making the code understandable for whoever works on it next.
+My focus is **software engineering and applied AI**: designing understandable systems and putting machine learning to work in practical applications. My projects span backend services, web and mobile software, network-intrusion classification, and computer vision.
 
 **Open to software engineering opportunities and collaboration.** [Let's talk →](mailto:puceskia@gmail.com)
 
@@ -28,7 +28,7 @@ Six projects across product development, data, and interactive experiences.
 <tr>
 <td width="50%" valign="top">
 
-<sub>01 / FULL-STACK · FITNESS</sub>
+<sub>01 / SOFTWARE ENGINEERING · FITNESS</sub>
 
 ### [GymTracker ↗](https://github.com/AntonioPuceski/GymTracker)
 
@@ -41,7 +41,7 @@ From planning a workout to tracking progress. A responsive fitness app with exer
 </td>
 <td width="50%" valign="top">
 
-<sub>02 / FULL-STACK · FINANCE</sub>
+<sub>02 / SOFTWARE ENGINEERING · FINANCE</sub>
 
 ### [Personal Finance Manager ↗](https://github.com/AntonioPuceski/-personal-finance-manager)
 
