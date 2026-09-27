@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Antonio Puceski — Software Engineer</title>
+<desc id="desc">Full-stack development and applied AI. Skopje, North Macedonia. A diagram connects interface, API, and data.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#2c414a"/></pattern></defs>
+<rect width="1200" height="420" rx="20" fill="#101b22"/>
+<rect x="730" width="470" height="420" rx="20" fill="url(#grid)"/>
+<path d="M48 48h34" stroke="#88dcca" stroke-width="4"/>
+<text x="96" y="54" fill="#a9bac0" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">ANTONIO / SOFTWARE ENGINEER</text>
+<text x="46" y="157" fill="#f4f1e9" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-3">Antonio Puceski<tspan fill="#d58954">.</tspan></text>
+<text x="50" y="211" fill="#f4f1e9" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="500">From the data layer</text>
+<text x="50" y="248" fill="#f4f1e9" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="500">to the details people use.</text>
+<text x="50" y="295" fill="#a9bac0" font-family="Segoe UI,Arial,sans-serif" font-size="18">Full-stack development · Applied AI</text>
+<path d="M50 335H1150" stroke="#2c414a"/>
+<circle cx="57" cy="373" r="5" fill="#88dcca"/>
+<text x="73" y="379" fill="#a9bac0" font-family="Segoe UI,Arial,sans-serif" font-size="16">Skopje, North Macedonia</text>
+<text x="1150" y="379" text-anchor="end" fill="#a9bac0" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">BUILD / UNDERSTAND / IMPROVE</text>
+<g fill="none" stroke="#2c414a" stroke-width="2"><path d="M950 114v22h-96v29"/><path d="M854 215v22h168v25"/></g>
+<g font-family="Consolas,monospace">
+<rect x="841" y="63" width="230" height="51" rx="10" fill="#162730" stroke="#2c414a"/>
+<text x="862" y="95" fill="#88dcca" font-size="18">01</text><text x="905" y="95" fill="#f4f1e9" font-size="18">interface</text>
+<rect x="756" y="165" width="212" height="51" rx="10" fill="#162730" stroke="#2c414a"/>
+<text x="777" y="197" fill="#88dcca" font-size="18">02</text><text x="820" y="197" fill="#f4f1e9" font-size="18">api</text>
+<rect x="915" y="262" width="212" height="51" rx="10" fill="#162730" stroke="#2c414a"/>
+<text x="936" y="294" fill="#88dcca" font-size="18">03</text><text x="979" y="294" fill="#f4f1e9" font-size="18">data</text>
+</g><circle cx="854" cy="137" r="4" fill="#d58954"/><circle cx="1022" cy="237" r="4" fill="#88dcca"/>
+</svg>

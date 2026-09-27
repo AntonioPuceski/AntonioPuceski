@@ -1,101 +1,139 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg">
+  <img alt="Antonio Puceski — Software Engineer. From the data layer to the details people use. Full-stack development and applied AI." src="./assets/profile-banner.svg" width="100%">
+</picture>
 
-![Antonio Puceski — Software Engineer](./assets/profile-banner.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-puceski-9911b1239/"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:puceskia@gmail.com"><strong>Email ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#selected-work"><strong>Explore my work ↓</strong></a>
+</p>
 
-### Building dependable products across APIs, data, web, mobile, and applied AI
+## Hi, I'm Antonio.
 
-[**LinkedIn**](https://www.linkedin.com/in/antonio-puceski-9911b1239/) &nbsp;·&nbsp; [**Email**](mailto:puceskia@gmail.com) &nbsp;·&nbsp; [**GitHub**](https://github.com/AntonioPuceski)
+I'm a software engineering graduate based in **Skopje, North Macedonia**, with professional experience in full-stack development, software integrations, and quality assurance.
 
-</div>
+I build applications across the stack: **APIs and relational databases, web and mobile interfaces, and applied machine learning.** I enjoy connecting those pieces into something useful—and making the code understandable for whoever works on it next.
 
-## About me
-
-Software engineering graduate with professional experience contributing to full-stack applications, software integrations, backend services, relational databases, frontend development, and software quality assurance.
-
-I build maintainable web and mobile applications across backend APIs, data layers, and modern frontend frameworks. My project work spans ASP.NET Core, Spring Boot, React, Angular, React Native, PostgreSQL, applied machine learning, and computer-vision interfaces.
-
-> I value accurate documentation, clear architecture, practical testing, and software that can be understood and maintained by the next engineer.
-
-## Technology
-
-![Core technology stack](./assets/technology-panel.svg)
-
-| Focus | Technologies |
-| :--- | :--- |
-| **Backend engineering** | `C#` `.NET` `ASP.NET Core` `Java` `Spring Boot` `REST APIs` `EF Core` `JPA` |
-| **Web & mobile clients** | `TypeScript` `JavaScript` `Angular` `React` `Vue.js` `React Native` |
-| **Data platforms** | `PostgreSQL` `SQL Server` `MySQL` `H2` |
-| **Delivery & collaboration** | `Git` `GitHub` `Docker` `Jira` `Swagger / OpenAPI` |
-| **Python & applied AI** | `Python` `pandas` `scikit-learn` `OpenCV` `MediaPipe` |
+**Open to software engineering opportunities and collaboration.** [Let's talk →](mailto:puceskia@gmail.com)
 
 ## Selected work
+
+Six projects across product development, data, and interactive experiences.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ [GymTracker](https://github.com/AntonioPuceski/GymTracker)
+<sub>01 / FULL-STACK · FITNESS</sub>
 
-ASP.NET Core and PostgreSQL fitness-tracking API with workout plans, completed sessions, favorites, progress history, dashboard statistics, and WGER synchronization.
+### [GymTracker ↗](https://github.com/AntonioPuceski/GymTracker)
 
-`C#` `.NET` `EF Core` `PostgreSQL`
+From planning a workout to tracking progress. A responsive fitness app with exercise discovery, reusable plans, session logging, and body-weight history.
+
+**Under the hood:** ASP.NET Core API, EF Core persistence, PostgreSQL, and WGER exercise synchronization.
+
+<sub><strong>C# · ASP.NET Core · PostgreSQL · JavaScript</strong></sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 [Personal Finance Manager](https://github.com/AntonioPuceski/-personal-finance-manager)
+<sub>02 / FULL-STACK · FINANCE</sub>
 
-Spring Boot and React/TypeScript finance application using JPA with PostgreSQL/H2 and Recharts visualizations.
+### [Personal Finance Manager ↗](https://github.com/AntonioPuceski/-personal-finance-manager)
 
-`Java` `Spring Boot` `React` `TypeScript`
+A clearer view of everyday finances. Track income and expenses, filter transactions by date, and explore balances and spending through charts.
+
+**Under the hood:** A React and TypeScript client connected to a Spring Boot REST API and relational data layer.
+
+<sub><strong>Java · Spring Boot · React · TypeScript</strong></sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Smart Incident Detection](https://github.com/AntonioPuceski/Smart-Incident-Detection-Dashboard-)
+<sub>03 / APPLIED ML · NETWORK SECURITY</sub>
 
-Random Forest training pipeline, FastAPI prediction service, and React visualization dashboard.
+### [Smart Incident Detection ↗](https://github.com/AntonioPuceski/Smart-Incident-Detection-Dashboard-)
 
-`Python` `scikit-learn` `FastAPI` `React`
+A network-intrusion classification project that takes a model beyond the notebook: enter traffic features and inspect predictions and class probabilities.
+
+**Under the hood:** A trained Random Forest pipeline served through FastAPI, with a React visualization dashboard.
+
+<sub><strong>Python · scikit-learn · FastAPI · React</strong></sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎸 [Guitar Shop](https://github.com/AntonioPuceski/Guitar-Shop)
+<sub>04 / FRONTEND · COMMERCE</sub>
 
-React and TypeScript storefront using Apollo GraphQL, routing, multilingual content, filtering, and infinite scrolling.
+### [Guitar Shop ↗](https://github.com/AntonioPuceski/Guitar-Shop)
 
-`React` `TypeScript` `GraphQL`
+A guitar catalog built from a Figma design. Browse brands, filter models, and explore specifications and musicians, with support for three languages.
+
+**Under the hood:** Typed React components, Apollo GraphQL queries, infinite scrolling, and internationalization.
+
+<sub><strong>React · TypeScript · GraphQL · i18next</strong></sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 👁️ [Computer Vision Sensor Hub](https://github.com/AntonioPuceski/Python-camera-sensor-project)
+<sub>05 / COMPUTER VISION · INTERACTION</sub>
 
-OpenCV and MediaPipe interface for landmark-based face, hand, gesture, and head-direction detection.
+### [Computer Vision Sensor Hub ↗](https://github.com/AntonioPuceski/Python-camera-sensor-project)
 
-`Python` `OpenCV` `MediaPipe`
+Turning a laptop camera into an input device. An experiment in recognizing hand gestures, facial gestures, and head direction.
+
+**Under the hood:** OpenCV and MediaPipe landmark tracking, gesture counters, event logging, and interactive modes.
+
+<sub><strong>Python · OpenCV · MediaPipe</strong></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>06 / MOBILE · WEATHER</sub>
+
+### [Weather App ↗](https://github.com/AntonioPuceski/WeatherApp)
+
+Current conditions and a five-day forecast in a cross-platform app. Search by city, switch units, and see backgrounds change with the weather.
+
+**Under the hood:** React Native and Expo, typed API requests, and OpenWeather current-weather and forecast data.
+
+<sub><strong>React Native · Expo · TypeScript · REST APIs</strong></sub>
 
 </td>
 </tr>
 </table>
 
-## How I work
+## Tools I work with
 
-```text
-Understand the problem  →  Design the boundary  →  Build the smallest clear solution
-        ↑                                                        ↓
-Learn from feedback     ←  Verify behavior       ←  Document decisions
-```
+| Area | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | C# · .NET / ASP.NET Core · Java · Spring Boot · EF Core · JPA |
+| **Web & mobile** | TypeScript · JavaScript · React · Angular · Vue.js · React Native |
+| **Databases** | PostgreSQL · SQL Server · MySQL · H2 |
+| **Python & applied AI** | Python · pandas · scikit-learn · FastAPI · OpenCV · MediaPipe |
+| **Development & delivery** | Git · Docker · Swagger / OpenAPI · Jira |
 
-<div align="center">
+## What matters to me
 
-### Let’s build something useful.
+**Clear boundaries.** Keep APIs, data models, and interfaces understandable.
 
-[LinkedIn](https://www.linkedin.com/in/antonio-puceski-9911b1239/) · [puceskia@gmail.com](mailto:puceskia@gmail.com)
+**Practical verification.** Check behavior, explain limitations, and document how to run the project.
 
-</div>
+**Useful details.** Treat loading states, error handling, and documentation as part of the product.
+
+---
+
+<p align="center">
+  <strong>Have a role, a project, or an idea in mind?</strong><br>
+  <a href="mailto:puceskia@gmail.com">puceskia@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/antonio-puceski-9911b1239/">Connect on LinkedIn ↗</a>
+</p>
